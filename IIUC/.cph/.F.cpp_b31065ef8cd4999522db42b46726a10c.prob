@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\CSE BASED\\PROBLEM SOLVING (ALL)\\IIUC\\F.cpp","tests":[{"id":1726118318519,"input":"4\n999999999 1000000000\n333333333 999999999\n1000000000 999999997\n999999998 1000000000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSE BASED\\PROBLEM SOLVING (ALL)\\IIUC\\F.cpp","group":"local","local":true}

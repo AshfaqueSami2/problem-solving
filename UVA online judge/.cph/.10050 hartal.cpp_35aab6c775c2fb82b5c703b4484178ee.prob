@@ -1,0 +1,1 @@
+{"name":"Local: 10050 hartal","url":"d:\\PROBLEM SOLVING (ALL)\\UVA online judge\\10050 hartal.cpp","tests":[{"id":1691685010953,"input":"2\n14\n3\n3\n4\n8\n100\n4\n12\n15\n25\n40","output":"5\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PROBLEM SOLVING (ALL)\\UVA online judge\\10050 hartal.cpp","group":"local","local":true}

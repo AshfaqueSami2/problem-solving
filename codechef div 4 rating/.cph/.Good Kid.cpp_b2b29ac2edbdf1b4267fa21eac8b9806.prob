@@ -1,0 +1,1 @@
+{"name":"Local: Good Kid","url":"d:\\PROBLEM SOLVING (ALL)\\codechef div 4 rating\\Good Kid.cpp","tests":[{"id":1695310340577,"input":"4\n4\n2 2 1 2\n3\n0 1 2\n5\n4 3 2 3 4\n3\n3 3 3","output":"16\n2\n432\n36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PROBLEM SOLVING (ALL)\\codechef div 4 rating\\Good Kid.cpp","group":"local","local":true}

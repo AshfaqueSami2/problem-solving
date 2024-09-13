@@ -1,0 +1,1 @@
+{"name":"Local: 12342 - Tax Calculator","url":"d:\\PROBLEM SOLVING (ALL)\\UVA online judge\\12342 - Tax Calculator.cpp","tests":[{"id":1694437979123,"input":"3\n180001\n12345\n615000","output":"2000\n0\n50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PROBLEM SOLVING (ALL)\\UVA online judge\\12342 - Tax Calculator.cpp","group":"local","local":true}

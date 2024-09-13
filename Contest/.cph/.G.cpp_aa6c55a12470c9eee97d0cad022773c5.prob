@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"d:\\PROBLEM SOLVING (ALL)\\Contest\\G.cpp","tests":[{"id":1697832670354,"input":"1\n5\n12 3 4 5 5","output":"12 5 3 5 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PROBLEM SOLVING (ALL)\\Contest\\G.cpp","group":"local","local":true}

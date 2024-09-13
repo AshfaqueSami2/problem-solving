@@ -1,0 +1,1 @@
+{"name":"Local: A+B","url":"d:\\PROBLEM SOLVING (ALL)\\800 rating\\A+B.cpp","tests":[{"id":1690540078850,"input":"4\n4+2\n0+0\n3+7\n8+9","output":"6\n0\n10\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PROBLEM SOLVING (ALL)\\800 rating\\A+B.cpp","group":"local","local":true}
